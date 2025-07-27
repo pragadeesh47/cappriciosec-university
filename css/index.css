@@ -1306,8 +1306,8 @@ scroll-behavior: smooth;
             }
             
             .filter-btn {
-                padding: 6px 8px;
-                font-size: 12px;
+                padding: 8px 8px;
+                font-size: 13px;
                 min-width: fit-content;
             }
             
